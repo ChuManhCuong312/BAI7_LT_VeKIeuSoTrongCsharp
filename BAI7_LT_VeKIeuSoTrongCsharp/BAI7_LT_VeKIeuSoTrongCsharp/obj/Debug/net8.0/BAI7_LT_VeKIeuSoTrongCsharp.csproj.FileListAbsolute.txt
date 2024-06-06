@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\bin\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.exe
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\bin\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.deps.json
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\bin\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.runtimeconfig.json
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\bin\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.dll
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\bin\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.pdb
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.dll
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\refint\BAI7_LT_VeKIeuSoTrongCsharp.dll
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.pdb
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\BAI7_LT_VeKIeuSoTrongCsharp.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\BAI7_LT_VeKIeuSoTrongCsharp\BAI7_LT_VeKIeuSoTrongCsharp\obj\Debug\net8.0\ref\BAI7_LT_VeKIeuSoTrongCsharp.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BAI7_LT_VeKIeuSoTrongCsharp/1.0.0": {
+        "runtime": {
+          "BAI7_LT_VeKIeuSoTrongCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAI7_LT_VeKIeuSoTrongCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
